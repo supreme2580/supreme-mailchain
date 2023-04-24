@@ -1,0 +1,15 @@
+{
+  "name": "mailchain",
+  "version": "1.0.0",
+  "description": "This is to test mailchain7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mailchain/sdk": "^0.18.4",
+    "dotenv": "^16.0.3"
+  }
+}
